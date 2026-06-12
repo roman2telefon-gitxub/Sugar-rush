@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sugar-rush-game.vercel.app/sitemap.xml
